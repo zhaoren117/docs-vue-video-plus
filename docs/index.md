@@ -12,12 +12,12 @@ hero:
   actions:
     - theme: brand
       text: 使用指南
-      link: /markdown-examples
+      link: /basicExamples
       target: _blank
       rel:
     - theme: alt
       text: 快速开始
-      link: /api-examples
+      link: /setup
 
 features:
   - icon: ⏩

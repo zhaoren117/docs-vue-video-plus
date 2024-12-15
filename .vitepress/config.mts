@@ -22,8 +22,8 @@ export default defineConfig({
         text: "API参考",
         items: [
           {
-            text: "aa",
-            link: "/guide/aa",
+            text: "api",
+            link: "/configs",
           },
         ],
       },
