@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/docs-vue-video-plus/",
   //美化地址栏icon
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/docs-vue-video-plus/logo.png" }]],
   title: "vueVideo++",
   description: "vue video",
   srcDir: "docs",
